@@ -17,7 +17,7 @@
     "fastclick": "^1.0.6",
     "jsonp": "0.2.1",
     "better-scroll": "^0.1.15",
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "vue-lazyload": "1.0.3",
     "vuex": "^2.3.1",
     "create-keyframe-animation": "^0.1.0",
